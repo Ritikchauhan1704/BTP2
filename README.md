@@ -1,5 +1,5 @@
 # Traffic Flow Forecasting Using GCN-LSTM
-Authors      : Geetansha Garga, Rachit Agarwal, Ritik Chauhan
+# Authors      : Geetansha Garga, Rachit Agarwal, Ritik Chauhan
 
 # 🚦 Traffic Flow Forecasting Using GCN-LSTM
 
