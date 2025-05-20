@@ -1,11 +1,5 @@
-# ------------------------------------------------------------------------------
 # Traffic Flow Forecasting Using GCN-LSTM
-# ------------------------------------------------------------------------------
-# Authors      : Geetansha Garga, Rachit Agarwal, Ritik Chauhan
-# Description  : A spatio-temporal deep learning pipeline for predicting traffic
-#                flow using GCN for spatial dependencies and LSTM for temporal modeling.
-# Dataset      : PeMSD7
-# ------------------------------------------------------------------------------
+Authors      : Geetansha Garga, Rachit Agarwal, Ritik Chauhan
 
 # 🚦 Traffic Flow Forecasting Using GCN-LSTM
 
