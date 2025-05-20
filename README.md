@@ -1,6 +1,6 @@
 # 🚦 Traffic Flow Forecasting Using GCN-LSTM
 
-**Authors**: **Geetansha Garga, Rachit Agarwal, Ritik Chauhan**
+**Authors**: **Geetansha🐸 , Rachit 🤓, Ritik 🐷**
 
 A deep learning pipeline for **spatio-temporal traffic prediction** using Graph Convolutional Networks (GCNs) and Long Short-Term Memory (LSTM) networks. This project predicts traffic speeds based on past patterns and sensor network topology.
 
